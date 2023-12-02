@@ -192,6 +192,7 @@ namespace Tyuiu.AleevRI.Sprint6.Task1.V5
             this.Controls.Add(this.groupBoxTask_ARI);
             this.MaximizeBox = false;
             this.Name = "FormMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Спринт 6 | Таск 1 | Вариант 5 | Алеев Р. И.";
             this.groupBoxTask_ARI.ResumeLayout(false);
             this.groupBoxTask_ARI.PerformLayout();
